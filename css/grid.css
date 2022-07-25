@@ -1,0 +1,44 @@
+.container 
+{
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr 2fr 1fr;
+  grid-template-areas: 
+    "t t t t t" 
+    ". h h h ." 
+    "s s s s s" 
+    ". m m m ." 
+    "a a a a a" 
+    ". f f f ."
+  ;
+  gap: 5px;
+}
+
+tpl-top-banner
+{
+  grid-area: t;
+}
+
+tpl-header
+{
+  grid-area: h;
+}
+
+#slideshow
+{
+  grid-area: s;
+}
+
+main
+{
+  grid-area: m;
+}
+
+tpl-aside
+{
+  grid-area: a;
+}
+
+tpl-footer
+{
+  grid-area: f;
+}

@@ -1,0 +1,26 @@
+:root {
+/* responsive sizes */
+  --screen-desktop: 1366px;
+  --screen-laptop: 960px;
+  --screen-tablet: 720px;
+  --screen-mobile: 550px;
+
+  /* default colors */
+  --color-primary: #3b3e85;
+  --color-secondary: #815bcb;
+  --color-dark: #180a20;
+  --color-info: #c296e4;
+  --color-success: #32a86a;
+  --color-warning: #e2cd30;
+  --color-danger: #ef291a;
+  --color-white: #ffffff;
+  --color-light: #dcdaf0;
+  --color-accent1: #4d429e;
+  --color-accent2: #696ed6;
+  --color-accent3: #adb7e2;
+
+  /* default typegraphy */
+  --font-primary: 'Montserrat', sans-serif;
+  --font-secondary: 'Montserrat', sans-serif;
+  --font-text: 'Montserrat', sans-serif;
+}

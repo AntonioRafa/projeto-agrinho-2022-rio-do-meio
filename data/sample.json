@@ -1,0 +1,235 @@
+{
+  "menu":
+  [
+    {
+      "id": 1,
+      "name": "Home",
+      "href": "./index.html"
+    },
+    {
+      "id": 2,
+      "name": "Colégio",
+      "href": "./colegio.html"
+    },
+    {
+      "id": 3,
+      "name": "Equipe",
+      "href": "./equipe.html"
+    },
+    {
+      "id": 4,
+      "name": "Notícias",
+      "href": "./noticias.html"
+    },
+    {
+      "id": 5,
+      "name": "Contato",
+      "href": "./contato.html"
+    }
+  ],
+  "team":
+  [
+    {
+      "id": 1,
+      "name": "Tatiane Da Silva Santos",
+      "office": "Docente"
+    },
+    {
+      "id": 2,
+      "name": "Manoel Vitor Pinheiro",
+      "office": "Docente"
+    },
+    {
+      "id": 3,
+      "name": "Cristiano Ricardo Hey",
+      "office": "Docente"
+    },
+    {
+      "id": 4,
+      "name": "Carmelia Correia",
+      "office": "Docente"
+    },
+    {
+      "id": 5,
+      "name": "Denise Sabaini De Melo",
+      "office": "Docente"
+    },
+    {
+      "id": 6,
+      "name": "Thiago Rodrigo Martins",
+      "office": "Docente"
+    },
+    {
+      "id": 7,
+      "name": "Larissa Suelen Da Silva",
+      "office": "Docente"
+    },
+    {
+      "id": 8,
+      "name": "Ilsa De Moura Amaral Makowski",
+      "office": "Docente"
+    },
+    {
+      "id": 9,
+      "name": "Ingrid Jaskiu",
+      "office": "Docente"
+    },
+    {
+      "id": 10,
+      "name": "Ivete Freitas Da Costa",
+      "office": "Docente"
+    },
+    {
+      "id": 11,
+      "name": "Jenifer Karoline De Almeida",
+      "office": "Docente"
+    },
+    {
+      "id": 12,
+      "name": "Jessica Huzek",
+      "office": "Docente"
+    },
+    {
+      "id": 13,
+      "name": "Maristela Ines Peruzzo",
+      "office": "Docente"
+    },
+    {
+      "id": 14,
+      "name": "Ivone Moreira",
+      "office": "Docente"
+    },
+    {
+      "id": 15,
+      "name": "Jair Miranda Penteado",
+      "office": "Docente"
+    },
+    {
+      "id": 16,
+      "name": "Josiele Larson",
+      "office": "Docente"
+    },
+    {
+      "id": 17,
+      "name": "Clodoaldo Shereiber",
+      "office": "Docente"
+    },
+    {
+      "id": 18,
+      "name": "Rozane De Fatima Lins",
+      "office": "Docente"
+    },
+    {
+      "id": 19,
+      "name": "Veridiane Cristina Martins",
+      "office": "Docente"
+    },
+    {
+      "id": 20,
+      "name": "Elma Kovalim De Souza",
+      "office": "Docente"
+    },
+    {
+      "id": 21,
+      "name": "Ivete Freitas Da Costa",
+      "office": "Diretora"
+    },
+    {
+      "id": 22,
+      "name": "Jair Miranda Penteado",
+      "office": "Pedagogo"
+    },
+    {
+      "id": 23,
+      "name": "Clodoaldo Shereiber",
+      "office": "Pedagogo"
+    }
+  ],
+  "featurednews":
+  [
+    {
+      "id": 1,
+      "cover": "./img/featured/20220716/estrutura/thumbnails/estrutura_cecrm_002.jpg",
+      "image": "./img/featured/20220716/estrutura/estrutura_cecrm_002.jpg",
+      "name": "Você já conhece a nossa estrutura?",
+      "description": "Conheça melhor o Colégio Estadual do Campo do Rio do Meio.",
+      "date": "JULHO 16 2022",
+      "category": "Estrutura",
+      "category_link": 1,
+      "author": "Redação",
+      "author_link": "#",
+      "author_target": "_self",
+      "materia": "<a href=\"./colegio.html\" target=\"_self\">Click aqui para ver as fotos</a><p>O colégio Estadual do Campo do Rio do Meio, foi fundada em 26 de dezembro de 1994 com a finalidade de oferecer o Ensino Fundamental do 5° ao 8° anos, aos alunos da comunidade e seu entorno. Foi autorizado o funcionamento do Ensino Médio a partir do ano de 2008, com implantação simultânea. Suas atividades letivas tiveram início em 1995, com duas turmas de 5° série e com 3 professores. No ano de 2012 foi implantado a oferta do Ensino Fundamental, com o mesmo começando do 6° ao 9° anos. Atualmente o colégio contem 117 alunos, com 7 turmas, sendo 4 turmas do Ensino Fundamental e 3 turmas do Ensino Médio.</p><p>O objetivo do colégio: formar cidadão críticos para a sociedade; Criação de um canal de interação com as famílias que fazem parte do mesmo contexto escolar; Desenvolver o educando; Promover uma educação de qualidade para todos os alunos;</p>"
+    },
+    {
+      "id": 2,
+      "cover": "./img/featured/20220713/idiomas/thumbnails/idioma_001.jpg",
+      "image": "./img/featured/20220713/idiomas/idioma_001.jpg",
+      "name": "Inscrições abertas para cursos de idiomas",
+      "description": "Cursos são ofertados pela UEL, UEM, Unicentro e Unioeste, tanto para comunidade universitária como para público externo. Início das aulas está previsto para agosto.",
+      "date": "JULHO 13 2022",
+      "category": "Educação Estadual",
+      "category_link": 2,
+      "author": "G1 PR",
+      "author_link": "https://g1.globo.com/pr/parana/educacao/noticia/2022/07/13/universidades-estaduais-do-parana-tem-inscricoes-abertas-para-cursos-de-idiomas.ghtml",
+      "author_target": "_blank",
+      "materia": "<p>Universidades estaduais do Paraná estão com inscrições abertas para cursos de línguas estrangeiras, com previsão de início das aulas em agosto.</p><p>Os cursos são ofertados do nível básico ao avançado para a comunidade universitária e para o público externo.</p><p>A Universidade Estadual de Londrina (UEL) oferece disciplinas de inglês, grego, espanhol, alemão, francês, italiano, mandarim, latim e português para estrangeiros.</p><p>Os interessados devem ter 16 anos completos. As inscrições podem ser realizadas no período de 25 de julho a 5 de agosto.</p><p>Estudantes que possuem conhecimento em um dos idiomas podem realizar o teste de nivelamento, que está previsto para os dias 25, 26 e 27 de julho, na modalidade a distância.</p><p>A divulgação do resultado do exame será no dia 29 de julho e a matrícula dos classificados, no período de 1 a 5 de agosto.</p><p>Os valores dos módulos variam entre R$ 150 a R$ 390 semestrais.</p><p>O Instituto de Línguas (ILG) da Universidade Estadual de Maringá (UEM) anunciou vagas para os idiomas inglês e francês.</p><p>Os interessados podem realizar a inscrição até o dia 14 de julho e o critério de preenchimento das vagas se dará por ordem de inscrição.</p><p>As aulas são presenciais e iniciam no dia 5 de agosto, com exceção de uma turma de inglês, que terá as aulas ministradas de forma remota.</p><p>São ofertadas turmas do curso de inglês para crianças de 7 a 13 anos, para jovens com 17 anos ou mais, para profissionais e para adultos com 40 anos ou mais.</p><p>Já o curso de francês é direcionado para pessoas de 15 anos ou mais.</p><p>O Programa Multicultural de Línguas (Promul), da Universidade Estadual do Centro-Oeste (Unicentro), está com as inscrições abertas até o dia 5 de agosto, para os cursos de alemão, espanhol, francês e inglês.</p><p>As aulas iniciam no dia 15 de agosto e ocorrem em Guarapuava.</p><p>As inscrições para os cursos ofertados no campus de Toledo da Universidade Estadual do Oeste do Paraná (Unioeste) ficam abertas até 15 de julho.</p><p>O candidato deverá realizar a inscrição de forma online, no sistema da Unioeste; por meio de agendamento na Secretaria do Centro de Ensino de Línguas de Toledo (Celto), das 9h às 12h e das 14h30 até 17h30; ou por mensagem no WhatsApp (45) 99826-3909.</p>"
+    },
+    {
+      "id": 3,
+      "cover": "./img/featured/20220626/psicologico/thumbnails/psicologico_001.jpg",
+      "image": "./img/featured/20220626/psicologico/psicologico_001.jpg",
+      "name": "Atendimento psicológico gratuito a profissionais da rede estadual de ensino",
+      "description": "Plataforma de telessaúde se chama 'Bem Cuidar' e é aberta a professores, diretores, pedagogos e funcionários dos colégios estaduais. Serviço é ofertado em parceria com a UEL.",
+      "date": "JUNHO 26 2022",
+      "category": "Educação Estadual",
+      "category_link": 2,
+      "author": "G1 PR",
+      "author_link": "https://g1.globo.com/pr/parana/educacao/noticia/2022/06/26/app-oferece-atendimento-psicologico-gratuito-a-profissionais-da-rede-estadual-de-ensino-veja-como-usar.ghtml",
+      "author_target": "_blank",
+      "materia": "<p>Professores, diretores, pedagogos e funcionários de colégios da rede estadual de ensino do Paraná podem agendar consultas online com psicólogos, de graça.</p><p>O serviço começou a ser prestado na sexta-feira (24) e faz parte do aplicativo Bem Cuidar, criado em parceria da Secretaria de Estado da Educação e do Esporte (Seed-PR) com a Universidade Estadual de Londrina (UEL).</p><p>Podem agendar uma consulta tanto os profissionais do Quadro Próprio do Magistério (QPM), quanto os temporários (do PSS), e servidores que atuam na Seed-PR e nos Núcleos Regionais de Educação. Veja como usar a ferramenta mais abaixo.</p><p>De acordo com a secretaria estadual, o atendimento é feito por 20 psicólogos selecionados pela UEL. Os profissionais também podem fazer encaminhamentos a psiquiatras, de acordo com a necessidade do paciente.</p><p>A chefe de Recursos Humanos da secretaria, Taciana Fenili de Santana, afirma que o serviço foi criado principalmente diante das dificuldades enfrentadas pelos profissionais no retorno às atividades presenciais.</p><p>A iniciativa, afirma pasta, busca reduzir, por exemplo, os casos de ansiedade e estresse.</p><p>“Com a pandemia, o número de afastamentos por doenças da mente aumentou. Esse retorno presencial foi difícil para muita gente. Essa foi a nossa principal motivação”, disse.</p><p>A partir do segundo semestre, informa a secretaria, começará estudo para avaliar as possibilidades de oferta de atendimento aos alunos.</p><p>O Bem Cuidar está disponível no Google Play e na Apple Store. Feito o download, é preciso fazer um rápido cadastro e solicitar atendimento com um dos psicólogos disponíveis.</p><p>A sessão pode ser agendada para até uma semana após a solicitação.</p><p>O professor, então, deve se conectar à plataforma no dia e horário estabelecidos para a sessão online. Durante o atendimento, o profissional deixará agendado o próximo encontro.</p>"
+    },
+    {
+      "id": 4,
+      "cover": "./img/featured/20220713/mestrado/thumbnails/mestrado_001.jpg",
+      "image": "./img/featured/20220713/mestrado/mestrado_001.jpg",
+      "name": "Mais de 40 cursos de mestrado e doutorado da UEL abrem vagas para estudante especial",
+      "description": "Conforme a universidade, participar da pós como aluno especial significa que os estudantes têm acesso a disciplinas optativas. Eles devem cumprir carga horária e atividades propostas para receberem nota ao final.",
+      "date": "JUNHO 13 2022",
+      "category": "Educação Estadual",
+      "category_link": 2,
+      "author": "G1 PR",
+      "author_link": "https://g1.globo.com/pr/norte-noroeste/noticia/2022/07/13/mais-de-40-cursos-de-mestrado-e-doutorado-da-uel-abrem-vagas-para-estudante-especial.ghtml",
+      "author_target": "_blank",
+      "materia": "<p>A Universidade Estadual de Londrina (UEL) divulgou o edital para seleção de estudante especial em 44 cursos de mestrado e doutorado.</p><p>Conforme a universidade, podem participar alunos que já tenham concluído a graduação e desejam cursar algumas disciplinas dos Programas de Pós-Graduação Stricto sensu da UEL.</p><p>As inscrições estarão abertas de 22 a 25 de julho e devem ser feitas na página da Pró-Reitoria de Pesquisa e Pós-Graduação (ProPPG).</p><p>Participar da pós como aluno especial significa que os estudantes têm acesso a disciplinas optativas. Eles devem cumprir a carga horária e as atividades propostas para receberem nota ao final.</p><p>Com isso, caso passem na seleção do programa no futuro, podem pedir equivalência para cumprimento dos créditos de aula.</p><p>Os estudantes deverão observar o edital específico do programa de pós-graduação de interesse. O documento traz informações como período de inscrição e isenção, total de vagas por disciplina, documentos necessários, período e critérios de seleção.</p><p>O resultado da seleção será divulgado no dia 1º de agosto, a partir das 16h, na página dos programas e no site da ProPPG.</p><p>A matrícula será feita diretamente no Portal do Estudante de Pós-graduação. As aulas começam no segundo semestre de 2022.</p>"
+    },
+    {
+      "id": 5,
+      "cover": "./img/featured/20220715/costura/thumbnails/costura_001.jpg",
+      "image": "./img/featured/20220715/costura/costura_001.jpg",
+      "name": "Oficina de Corte e Costura",
+      "description": "A Secretaria Municipal de Desenvolvimento Social e Cidadania está executando Oficina de Corte e Costura tendo como Público Alvo famílias beneficiárias do Programa Auxilio Brasil (antigo Bolsa Família), ou inscritos no Cadastro Único para Programas Sociais.",
+      "date": "JUNHO 15 2022",
+      "category": "Pitanga e Região",
+      "category_link": 3,
+      "author": "Prefeitura Municipal",
+      "author_link": "https://www.pitanga.pr.gov.br/noticias/oficina-de-corte-e-costura",
+      "author_target": "_blank",
+      "materia": "<p>A Secretaria Municipal de Desenvolvimento Social e Cidadania está executando Oficina de Corte e Costura tendo como Público Alvo famílias beneficiárias do Programa Auxilio Brasil (antigo Bolsa Família), ou inscritos no Cadastro Único para Programas Sociais. As oficinas têm como objetivo incentivar o convívio social propiciado através de grupos e ainda utilizar desse espaço para qualificar e potencializar o aprendizado das famílias em atividades de seu interesse.</p><p>A Oficina de Corte e Costura acontece nas terças e quintas-feiras das 08:30 as 11:30 das 13:30 as 16:30 hrs na Sede da Secretaria de Desenvolvimento Social e encontra-se com vagas disponíveis. As famílias e/ou pessoas interessadas devem procurar o CRAS no endereço Rua João Ferreira Leite, nº 51, Vila Sulina (próximo ao Fórum Eleitoral) para maiores informações.</p>"
+    },
+    {
+      "id": 6,
+      "cover": "./img/featured/20220708/xadrez/thumbnails/xadrez_001.jpg",
+      "image": "./img/featured/20220708/xadrez/xadrez_001.jpg",
+      "name": "Torneio de xadrez em parceria com o Núcleo Regional de Educação",
+      "description": "Nesta sexta-feira foi realizado no Centro de Eventos do Parque Miguel Adur Filho, o torneio de xadrez em parceria com o Núcleo Regional de Educação, com participação de alunos das escolas de Pitanga, equipe da Secretaria de Educação, Cultura e Esportes com a colaboração de alunos e membros do Clube do Xadrez de Pitanga.",
+      "date": "JUNHO 08 2022",
+      "category": "Pitanga e Região",
+      "category_link": 3,
+      "author": "Prefeitura Municipal",
+      "author_link": "https://www.pitanga.pr.gov.br/noticias/torneio-de-xadrez-em-parceria-com-o-nucleo-regional-de-educacao",
+      "author_target": "_blank",
+      "materia": "<p>Nesta sexta-feira foi realizado no Centro de Eventos do Parque Miguel Adur Filho, o torneio de xadrez em parceria com o Núcleo Regional de Educação, com participação de alunos das escolas de Pitanga, equipe da Secretaria de Educação, Cultura e Esportes com a colaboração de alunos e membros do Clube do Xadrez de Pitanga.</p><p>O Projeto Clube do Xadrez nas escolas vem trazendo muitos benefícios no desenvolvimento psicológico e cognitivo de nossos alunos, ajudando no desenvolvimento do raciocínio, atenção, concentração e socialização.</p>"
+    }
+  ]
+}
